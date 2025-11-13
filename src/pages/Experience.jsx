@@ -10,22 +10,22 @@ const Experience = () => {
     {
       id: 1,
       title: "Senior Software Engineer",
-      company: "Tech Innovators Inc.",
-      period: "2023 - Present",
+      company: "GNA IntelleX",
+      period: "2022 - Present",
       location: "Remote",
       description: "Leading full-stack development teams and architecting scalable solutions for enterprise clients. Driving technical excellence and mentoring junior developers.",
       achievements: [
-        "Led development of a microservices architecture serving 1M+ users",
+        "Led development of a microservices architecture serving 10K+ users",
         "Reduced system latency by 40% through performance optimization",
         "Mentored 5 junior developers to senior level positions"
       ],
-      technologies: ["React", "Node.js", "AWS", "Kubernetes", "PostgreSQL"]
+      technologies: ["React", "Node.js", "AWS", "Kubernetes", "MONGO DB"]
     },
     {
       id: 2,
       title: "Full-Stack Developer",
-      company: "Digital Solutions LLC",
-      period: "2021 - 2023",
+      company: "VUDUKA",
+      period: "2021 - Present",
       location: "San Francisco, CA",
       description: "Developed and maintained multiple web applications using modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality software solutions.",
       achievements: [
@@ -38,7 +38,7 @@ const Experience = () => {
     {
       id: 3,
       title: "Software Developer",
-      company: "StartUp Ventures",
+      company: "GS DES PARENTS",
       period: "2019 - 2021",
       location: "Austin, TX",
       description: "Built MVP products and contributed to early-stage product development and architecture. Worked in agile environments to rapidly iterate on product features.",
@@ -52,7 +52,7 @@ const Experience = () => {
   ];
 
   const stats = [
-    { icon: Briefcase, value: "5+", label: "Years Experience" },
+    { icon: Briefcase, value: "6+", label: "Years Experience" },
     { icon: Users, value: "50+", label: "Projects Completed" },
     { icon: Award, value: "15+", label: "Technologies Mastered" },
     { icon: TrendingUp, value: "100%", label: "Client Satisfaction" }

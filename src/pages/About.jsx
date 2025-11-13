@@ -104,7 +104,7 @@ const About = () => {
     {
       year: "2023",
       title: "Senior Software Engineer",
-      company: "Tech Innovators Inc.",
+      company: "GNA INTELLEX",
       description: "Leading full-stack development teams and architecting scalable solutions for enterprise clients."
     },
     {
@@ -118,12 +118,6 @@ const About = () => {
       title: "Software Developer",
       company: "StartUp Ventures",
       description: "Built MVP products and contributed to early-stage product development and architecture."
-    },
-    {
-      year: "2018",
-      title: "Computer Science Degree",
-      company: "University of Technology",
-      description: "Graduated with honors, focusing on software engineering and distributed systems."
     }
   ];
 
